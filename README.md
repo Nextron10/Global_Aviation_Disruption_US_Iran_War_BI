@@ -43,10 +43,10 @@ See the [architecture](visuals/Architecture/Project%20Architecture.png) and [dat
 
 ## Documentation
 
-- [Business Requirements](documentation/Business%20Requirements.docx): client brief, 24 questions, scope, and acceptance criteria.
-- [Preliminary Data Assessment](documentation/Preliminary%20Data%20Assessment.docx): source coverage, quality checks, and preparation decisions.
-- [Technical Documentation](documentation/Technical%20Documentation.docx): transformations, SQL objects, final Power BI model, and reproduction instructions.
-- [Executive Case Study](documentation/Executive%20Case%20Study.docx): completed findings, dashboard pages, and recommendations.
+- [Business Requirements](documentation/Business%20Requirements%20Document.pdf): client brief, 24 questions, scope, and acceptance criteria.
+- [Preliminary Data Assessment](documentation/Preliminary%20Data%20Assessment.pdf): source coverage, quality checks, and preparation decisions.
+- [Technical Documentation](documentation/Technical%20Documentation.pdf): transformations, SQL objects, final Power BI model, and reproduction instructions.
+- [Executive Case Study](documentation/Executive%20Case%20Study.pdf): completed findings, dashboard pages, and recommendations.
 
 ## Run locally
 
