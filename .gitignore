@@ -237,7 +237,7 @@ pgpass.conf
 .docx_render/
 *.tmp
 
-# Historical Word sources retained locally after consolidation into two authoritative documents.
+# Private working records and historical documents are not published.
 documentation/_archive/
 documentation/_private/
 documentation/Project Documentation.docx

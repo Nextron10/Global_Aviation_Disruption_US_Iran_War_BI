@@ -4,7 +4,7 @@
 <text x="900" y="110" text-anchor="middle" font-family="Arial" font-size="26" fill="#536579">Implemented static pipeline | Population separation is a design rule</text>
 <rect x="130" y="155" width="1540" height="180" rx="16" fill="white" stroke="#9eafc3" stroke-width="2"/>
 <text x="900" y="201" text-anchor="middle" font-family="Arial" font-size="30" font-weight="bold" fill="#132847">1. Business requirements</text>
-<text x="900" y="249" text-anchor="middle" font-family="Arial" font-size="25" font-weight="normal" fill="#132847">Static simulated portfolio case study</text>
+<text x="900" y="249" text-anchor="middle" font-family="Arial" font-size="25" font-weight="normal" fill="#132847">Simulated ICAO client assignment</text>
 <text x="900" y="297" text-anchor="middle" font-family="Arial" font-size="25" font-weight="normal" fill="#132847">Separate detailed, summary and estimate populations</text>
 <path d="M900 338V371" stroke="#536579" stroke-width="3" marker-end="url(#arrow)"/>
 <rect x="130" y="380" width="1540" height="180" rx="16" fill="white" stroke="#9eafc3" stroke-width="2"/>
@@ -40,10 +40,10 @@
 <rect x="130" y="1730" width="1540" height="180" rx="16" fill="white" stroke="#9eafc3" stroke-width="2"/>
 <text x="900" y="1776" text-anchor="middle" font-family="Arial" font-size="30" font-weight="bold" fill="#132847">8. Four report pages</text>
 <text x="900" y="1824" text-anchor="middle" font-family="Arial" font-size="25" font-weight="normal" fill="#132847">Executive, financial, geopolitical and regional</text>
-<text x="900" y="1872" text-anchor="middle" font-family="Arial" font-size="25" font-weight="normal" fill="#132847">Four current page images; manual interaction acceptance remains open</text>
+<text x="900" y="1872" text-anchor="middle" font-family="Arial" font-size="25" font-weight="normal" fill="#132847">Final report pages and source-aligned measures</text>
 <path d="M900 1913V1946" stroke="#536579" stroke-width="3" marker-end="url(#arrow)"/>
 <rect x="130" y="1955" width="1540" height="180" rx="16" fill="white" stroke="#9eafc3" stroke-width="2"/>
-<text x="900" y="2001" text-anchor="middle" font-family="Arial" font-size="30" font-weight="bold" fill="#132847">9. Portfolio evidence</text>
-<text x="900" y="2049" text-anchor="middle" font-family="Arial" font-size="25" font-weight="normal" fill="#132847">Two authoritative Word documents and audit records</text>
-<text x="900" y="2097" text-anchor="middle" font-family="Arial" font-size="25" font-weight="normal" fill="#132847">Verified descriptive findings; private study guide excluded</text>
+<text x="900" y="2001" text-anchor="middle" font-family="Arial" font-size="30" font-weight="bold" fill="#132847">9. Business and technical deliverables</text>
+<text x="900" y="2049" text-anchor="middle" font-family="Arial" font-size="25" font-weight="normal" fill="#132847">Four public Word documents and final report assets</text>
+<text x="900" y="2097" text-anchor="middle" font-family="Arial" font-size="25" font-weight="normal" fill="#132847">Business findings and planning recommendations</text>
 <text x="900" y="2220" text-anchor="middle" font-family="Arial" font-size="22" fill="#536579">Not live monitoring. Not an official ICAO project. Modelled values are not verified actuals.</text></svg>
