@@ -44,6 +44,6 @@
 <path d="M900 1913V1946" stroke="#536579" stroke-width="3" marker-end="url(#arrow)"/>
 <rect x="130" y="1955" width="1540" height="180" rx="16" fill="white" stroke="#9eafc3" stroke-width="2"/>
 <text x="900" y="2001" text-anchor="middle" font-family="Arial" font-size="30" font-weight="bold" fill="#132847">9. Business and technical deliverables</text>
-<text x="900" y="2049" text-anchor="middle" font-family="Arial" font-size="25" font-weight="normal" fill="#132847">Four public Word documents and final report assets</text>
+<text x="900" y="2049" text-anchor="middle" font-family="Arial" font-size="25" font-weight="normal" fill="#132847">Four public PDF documents and final report assets</text>
 <text x="900" y="2097" text-anchor="middle" font-family="Arial" font-size="25" font-weight="normal" fill="#132847">Business findings and planning recommendations</text>
 <text x="900" y="2220" text-anchor="middle" font-family="Arial" font-size="22" fill="#536579">Not live monitoring. Not an official ICAO project. Modelled values are not verified actuals.</text></svg>

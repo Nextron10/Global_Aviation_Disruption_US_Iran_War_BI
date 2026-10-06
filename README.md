@@ -41,7 +41,7 @@ A key modeling decision is to preserve different source populations. Detailed ca
 
 See the [architecture](visuals/Architecture/Project%20Architecture.png) and [database and semantic-model diagram](visuals/ERD/ERD%20-1.png).
 
-## Documentation
+## Documentation (PDF)
 
 - [Business Requirements](documentation/Business%20Requirements%20Document.pdf): client brief, 24 questions, scope, and acceptance criteria.
 - [Preliminary Data Assessment](documentation/Preliminary%20Data%20Assessment.pdf): source coverage, quality checks, and preparation decisions.
@@ -54,6 +54,6 @@ Clone the full repository. Use Python with `requirements.txt`, PostgreSQL with `
 
 ## Source and licenses
 
-Data: [Global Civil Aviation Disruption 2026 Iran–US War](https://www.kaggle.com/datasets/zkskhurram/global-civil-aviation-disruption2026-iranus-war), attributed under **CC BY-SA 4.0**. Code: [MIT](LICENSE). The code license does not replace the dataset license.
+Data: [Global Civil Aviation Disruption 2026 Iran–US War](https://www.kaggle.com/datasets/zkskhurram/global-civil-aviation-disruption2026-iranus-war) by **zkskhurram**, licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Raw files in `data/raw/` are unchanged. Cleaned files in `data/clean/` remain under CC BY-SA 4.0; preparation includes text trimming, date formatting, three airline-name aliases, closure timestamp formatting and duration validation, and conflict-location parsing. See the Technical Documentation for the complete transformation details. Code: [MIT](LICENSE). The MIT code license does not cover the source or cleaned datasets.
 
 **Authors:** Dhaerya Nauni and Honey Aggarwal
